@@ -3,7 +3,7 @@ A flutter and google map app, that allows the user to mark points on a map, draw
 
 Below are screenshots from the app
 
-[![maps1.png](https://i.postimg.cc/xdMJkSXn/maps1.png)](https://postimg.cc/hJ4Pw685)
+[![maps1.png](https://i.postimg.cc/Nj4RsHzB/maps1.png)](https://postimg.cc/MnnntvwF)
 
 [![maps2.png](https://i.postimg.cc/cJS1btJG/maps2.png)](https://postimg.cc/tsBH1TPB)
 
